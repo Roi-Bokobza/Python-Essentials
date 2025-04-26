@@ -1,1 +1,20 @@
-# Python-Essentials
+## Table of Contents
+- **Introduction**
+  - Python Introduction
+  - Project Introduction
+- **Fundamentals**
+  - Print and Operators
+  - Variables and Data types
+  - User Input
+  - Pro Tips and Shortcuts
+- **Conditions and Control Flow**
+  - Boolean Values
+  - Conditional statements
+  - Logic Operators
+  - Loops
+- **Advanced**
+  - Libraries and functions
+  - Lists
+  - Guess the random number
+  - Bank Accounts Project
+  - Using SQL Injections to hack the accounts
